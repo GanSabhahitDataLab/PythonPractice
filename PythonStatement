@@ -1,0 +1,7 @@
+#create a Statement that will print out words that start with 's':
+
+st = 'Print only the words that start with s in this sentence'
+print(st)
+for elm in st.split() :
+    if elm[0] == 's':
+        print(elm)
