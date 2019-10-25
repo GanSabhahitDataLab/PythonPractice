@@ -80,4 +80,11 @@ print(bin(10))
 
 round(2.345)
 
+# Count no of s in string
+st = "saasahsassdfdf"
+print(st.count("s"))
 
+# Difference of sets
+s1 = {1,2,3}
+s2 = {1,2,5}
+s1.difference(s2)
