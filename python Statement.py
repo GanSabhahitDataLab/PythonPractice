@@ -76,7 +76,7 @@ print(len(firstLetterList))
 
 
 # In[ ]:
-
+print(bin(10))
 
 
 
