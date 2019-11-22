@@ -1,3 +1,4 @@
+# Function which identifies whether a string contains all unique character
 def isuniquestring(st):
     chars = set()
 
